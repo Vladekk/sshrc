@@ -21,6 +21,7 @@ You can use this to set environment variables, define functions, and run post-lo
 
 ####
 If needed, trust formula first
+
 ```brew trust vladekk/sshrc/sshrc```
 
 then install:
