@@ -19,6 +19,14 @@ You can use this to set environment variables, define functions, and run post-lo
 
 ## Installation
 
+####
+If needed, trust formula first
+```brew trust vladekk/sshrc/sshrc```
+
+then install:
+
+```brew install vladekk/sshrc/sshrc```
+
 #### OS X
 
     $ brew install sshrc
